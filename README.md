@@ -1,6 +1,6 @@
 # Mastermind
 
-Python game that uses kivy for it's graphical interface. The simulated game is mastermind. 
+Python game that uses kivy for it's graphical interface. The simulated game is mastermind. The results are stocked in a json file. 
 
 ## Game rules : 
 
